@@ -17,7 +17,7 @@ Add the following alias to your bash profile
 alias cow='fortune | cowsay | lolcat'
 ```
 
-The following bash function will launch a new terminal and run the 'cow' alias.  It will push it to the front of your sreen, too This will happen after 2500 seconds (45 minutes) after you type 'cowdoro' in the terminal.
+The following bash function will launch a new terminal and run the 'cow' alias and push iit in front of all of your windows. This will happen 2500 seconds (45 minutes) after you type 'cowdoro' in the terminal.
 
 Add the following to your bash profile to enable this part. 
 
