@@ -32,3 +32,8 @@ function cowdoro {
 When it runs, it should look something like this:
 
 <img width="278" alt="screen shot 2017-07-28 at 10 44 13 pm" src="https://user-images.githubusercontent.com/20469703/28742167-55921218-73e6-11e7-975f-9bf1165c49de.png">
+
+If you would prefer a penguin, you can add the -f tux flag to the cowsay command.  The penguin looks like this:
+
+<img width="323" alt="screen shot 2017-07-29 at 11 02 16 am" src="https://user-images.githubusercontent.com/20469703/28746677-7cd4618e-744d-11e7-93fd-c21dbeacd45b.png">
+
