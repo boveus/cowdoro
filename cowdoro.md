@@ -25,4 +25,9 @@ function cowdoro {
   sleep 2500;
   osascript -e 'tell application "Terminal" to do script "cow"';
   osascript -e 'tell application "Terminal" to activate'
-}```
+}
+```
+
+When it runs, it should look something like this:
+
+<img width="278" alt="screen shot 2017-07-28 at 10 44 13 pm" src="https://user-images.githubusercontent.com/20469703/28742167-55921218-73e6-11e7-975f-9bf1165c49de.png">
