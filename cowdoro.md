@@ -19,6 +19,7 @@ alias cow='fortune | cowsay | lolcat'
 
 The following bash function will launch a new terminal and run the 'cow' alias. 
 This will happen after 2500 seconds (45 minutes) after you type 'cowdoro' in the terminal.
+Add the following to your bash profile to enable this part.
 
 ```bash
 function cowdoro {
